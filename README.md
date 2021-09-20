@@ -1,4 +1,4 @@
-![Image of Michael Burhess](images/headshot.png
+![Image of Michael Burgess](images/headshot.png
 "Picture of Me and My Sister")
 ## About Me
 I am a MS student in the UConn EEB department
