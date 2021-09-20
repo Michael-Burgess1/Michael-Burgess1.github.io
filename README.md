@@ -1,4 +1,4 @@
-![Image of Michael Burgess](images/headshot.pdf
+![Image of Michael Burgess](images/headshot.jpg
 "my headshot")
 ## About Me
 I am a MS student in the UConn EEB department
